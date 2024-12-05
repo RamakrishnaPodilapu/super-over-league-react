@@ -1,3 +1,5 @@
+import './index.css'
+
 const element = (
   <div className='super-over-league-container'>
     <h1 className='heading'>Super Over League</h1>
